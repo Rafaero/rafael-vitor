@@ -10,16 +10,7 @@
   --display: "Schibsted Grotesk", "Helvetica Neue", Arial, sans-serif;
   --body: "Figtree", "Segoe UI", system-ui, sans-serif;
   --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
-}
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #11151d; --surface: #182029; --ink: #eef1f5; --muted: #a3adbd; --line: #2a3442;
-    --accent: #2bb3a6; --accent-ink: #0b1414; color-scheme: dark;
-  }
-}
-:root[data-theme="dark"] {
-  --bg: #11151d; --surface: #182029; --ink: #eef1f5; --muted: #a3adbd; --line: #2a3442;
-  --accent: #2bb3a6; --accent-ink: #0b1414; color-scheme: dark;
+  color-scheme: light;
 }
 
 * { box-sizing: border-box; }
