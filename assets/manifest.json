@@ -1,14 +1,14 @@
 {
-  "name": "Rafael Vitor \u2014 ServiceNow",
-  "short_name": "RafaelVitor",
+  "name": "Rafael Vitor · ServiceNow",
+  "short_name": "Rafael Vitor",
   "start_url": ".",
   "display": "standalone",
-  "background_color": "#0b0d10",
-  "theme_color": "#0b0d10",
+  "background_color": "#16223d",
+  "theme_color": "#16223d",
   "icons": [
     {
       "src": "favicon.svg",
-      "sizes": "64x64",
+      "sizes": "any",
       "type": "image/svg+xml"
     }
   ]
